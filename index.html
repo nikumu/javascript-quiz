@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de JavaScript</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <div class="parallax-container">
+        <div class="quiz-container">
+            <div class="card">
+                <div class="card-header">
+                    <h1 class="card-title">JS QUIZ</h1>
+                    <p class="card-description">Teste seus conhecimentos em JavaScript</p>
+                </div>
+                <div class="card-content">
+                    <div id="question-container">
+                        <h2 id="question-number" class="question-number"></h2>
+                        <p id="question" class="question"></p>
+                        <div id="options" class="options"></div>
+                    </div>
+                    <div id="score-container" class="score-container hidden">
+                        <h2 class="score-title">Resultado Final</h2>
+                        <p id="score" class="score"></p>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <button id="reset-button" class="button hidden">Reiniciar Quiz</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
