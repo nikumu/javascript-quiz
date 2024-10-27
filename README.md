@@ -5,10 +5,10 @@ ideal para iniciantes e desenvolvedores que desejam revisar conceitos importante
 
 ## Funcionalidades
 
-* Perguntas Variadas: O quiz abrange uma ampla gama de tópicos fundamentais de JavaScript, incluindo variáveis, funções, arrays, objetos, promessas, e muito mais.
-* Respostas Múltiplas: Cada pergunta vem com três opções de resposta, das quais apenas uma está correta.
-* Feedback Imediato: Após selecionar uma resposta, o quiz avança automaticamente para a próxima pergunta, proporcionando uma experiência de aprendizado contínua.
-* Pontuação Final: Ao finalizar o quiz, você verá sua pontuação final, permitindo avaliar seu desempenho.
+* Perguntas Variadas: O quiz abrange tópicos essenciais de JavaScript, incluindo variáveis, funções, arrays, objetos, promises, e muito mais.
+* Respostas Múltiplas: Cada pergunta tem três opções, com apenas uma correta.
+* Feedback Imediato: Após responder, o quiz avança automaticamente, proporcionando uma experiência de aprendizado contínua.
+* Pontuação Final: Ao terminar, sua pontuação final será exibida, permitindo avaliar seu desempenho.
 * Reiniciar Quiz: Após a conclusão, você pode reiniciar o quiz para tentar melhorar sua pontuação.
 
 ## Como Utilizar
@@ -32,7 +32,7 @@ Abra seu navegador web preferido.
 
 Digite a URL fornecida pelo servidor (por exemplo, http://localhost:8000 ou http://127.0.0.1:8080).
 
-O Quiz agora deve estar aberto no navegador!
+O Quiz agora deve estar aberto no navegador! Boa sorte!
 
    
 
