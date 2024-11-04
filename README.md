@@ -30,7 +30,7 @@ Depois de iniciar o servidor HTTP, você verá uma mensagem no terminal informan
 
 4. Abra seu navegador web preferido.
 
-Digite a URL fornecida pelo servidor (por exemplo, http://localhost:8000 ou http://127.0.0.1:8080).
+Digite a URL fornecida pelo servidor.
 
 O Quiz agora deve estar aberto no navegador! Boa sorte!
 
