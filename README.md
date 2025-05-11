@@ -15,7 +15,7 @@ ideal para iniciantes e desenvolvedores que desejam revisar conceitos importante
 
 1. Clone este repositório para seu ambiente local usando o comando:
 ```
-git clone https://github.com/seu-usuario/javascript-quiz.git
+git clone https://github.com/nikumu/javascript-quiz.git
 ```
 2. Navegue até o diretório do projeto e instale as dependências necessárias:
 ```
